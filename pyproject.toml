@@ -1,0 +1,14 @@
+[project]
+name = "ip-agentic-ai"
+version = "0.1.0"
+description = "IP-Agentic-AI deployment package"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [
+  { name = "gwegayhu" }
+]
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
